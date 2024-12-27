@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="google-site-verification" content="Et12ypKM2g_SL84yvPIGUFYaGllFpNvVccPPRBKM5UQ" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        h1 {
+            color: #0073e6;
+        }
+        p {
+            font-size: 18px;
+        }
+        .contact-info {
+            margin-top: 20px;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>About Developer</h1>
+    <p>Hello! I am the developer of the application.</p>
+    <div class="contact-info">
+        <h2>Contact Information:</h2>
+        <p>Email: nelsonpandiangan20@gamail.com</p>
+        <p>Phone: +6281380496920</p>
+    </div>
+</body>
+</html>
