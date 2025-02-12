@@ -5,30 +5,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About - Developer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Poppins', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
+            background: linear-gradient(135deg, #0073e6, #0049a3);
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
         }
         header {
-            background-color: #0073e6;
-            color: #fff;
-            padding: 15px 20px;
+            background: rgba(0, 0, 0, 0.2);
+            padding: 20px;
             text-align: center;
-            font-size: 24px;
+            font-size: 26px;
+            font-weight: bold;
+            width: 100%;
+            backdrop-filter: blur(5px);
         }
         main {
-            padding: 20px;
-            max-width: 800px;
-            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+            max-width: 600px;
+            text-align: center;
+            margin-top: 40px;
         }
         h1 {
-            color: #0073e6;
-            text-align: center;
-            margin-bottom: 20px;
+            color: #f4f4f9;
+            margin-bottom: 15px;
         }
         p {
             font-size: 18px;
@@ -36,33 +46,45 @@
         }
         .contact-info {
             margin-top: 20px;
-            background-color: #fff;
+            background: rgba(255, 255, 255, 0.2);
             padding: 20px;
             border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         }
         .contact-info h2 {
             margin-bottom: 10px;
-            color: #0073e6;
+            color: #f4f4f9;
         }
         .contact-info p {
-            margin: 5px 0;
+            margin: 10px 0;
+        }
+        .contact-info a {
+            color: #f4f4f9;
+            text-decoration: none;
+            transition: 0.3s;
+        }
+        .contact-info a:hover {
+            color: #ffdd57;
+        }
+        .social-icons {
+            margin-top: 15px;
+        }
+        .social-icons a {
+            color: #f4f4f9;
+            font-size: 22px;
+            margin: 0 10px;
+            transition: 0.3s;
+        }
+        .social-icons a:hover {
+            color: #ffdd57;
         }
         footer {
             text-align: center;
-            padding: 10px 20px;
-            background-color: #0073e6;
-            color: #fff;
-            position: relative;
-            bottom: 0;
+            padding: 15px;
+            background: rgba(0, 0, 0, 0.2);
             width: 100%;
-        }
-        a {
-            color: #0073e6;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
+            backdrop-filter: blur(5px);
+            margin-top: 40px;
         }
     </style>
 </head>
@@ -77,6 +99,11 @@
             <h2>Contact Information</h2>
             <p>Email: <a href="mailto:nelsonpandiangan20@gmail.com">nelsonpandiangan20@gmail.com</a></p>
             <p>Phone: <a href="tel:+6281380496920">+62 813 8049 6920</a></p>
+            <div class="social-icons">
+                <a href="https://github.com" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+            </div>
         </div>
     </main>
     <footer>
@@ -84,4 +111,5 @@
     </footer>
 </body>
 </html>
+
 
