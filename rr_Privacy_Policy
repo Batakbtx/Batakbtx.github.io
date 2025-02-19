@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            max-width: 800px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p><strong>Effective Date:</strong> [19/02/2025]</p>
+    <h2>1. Introduction</h2>
+    <p>Welcome to <strong>[RR Robot Rebel]</strong>. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our Game.</p>
+    <h2>2. Information We Collect</h2>
+    <ul>
+        <li><strong>Personal Information:</strong> We do not collect personal information unless explicitly provided by you.</li>
+        <li><strong>Usage Data:</strong> We may collect non-personal data such as gameplay statistics and device information.</li>
+        <li><strong>Advertising and Analytics Data:</strong> Third-party services may collect anonymous data.</li>
+    </ul>
+    <h2>3. How We Use Your Information</h2>
+    <p>We use collected data to improve gameplay experience, fix bugs, and show relevant advertisements (if applicable).</p>
+    <h2>4. Third-Party Services</h2>
+    <p>Our Game may include third-party services such as Ad Networks and Analytics Tools.</p>
+    <h2>5. Data Security</h2>
+    <p>We take security measures to protect your data but cannot guarantee complete security.</p>
+    <h2>6. Children's Privacy</h2>
+    <p>Our Game is not directed at children under the age of 13. If we discover that we have collected data from a child under 13, we will delete it.</p>
+    <h2>7. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Changes will be posted on this page.</p>
+    <h2>8. Contact Us</h2>
+    <p>If you have any questions, contact us at <strong>[pandiangannelsonGmail.com]</strong>.</p>
+</body>
+</html>
